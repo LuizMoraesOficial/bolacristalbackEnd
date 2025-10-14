@@ -1,0 +1,18 @@
+[
+    {
+        "titulo": "aqui foi editado",
+        "descricao": "postado",
+        "conteudo": "e testado",
+        "imagem": "https:\/\/tse1.mm.bing.net\/th\/id\/OIP.JIMCVRpetczepQZ05eOw3QHaEo?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3",
+        "id": "68edbc5bb6c05",
+        "created_at": "2025-10-14 04:58:35"
+    },
+    {
+        "titulo": "foi foi",
+        "descricao": "oi",
+        "conteudo": "oioioi\n",
+        "imagem": "",
+        "id": "68edbeaf9902d",
+        "created_at": "2025-10-14 05:08:31"
+    }
+]
