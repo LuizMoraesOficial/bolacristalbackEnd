@@ -1,4 +1,4 @@
-const API_BASE = "http://localhost/cartomante/phpdatabase";
+const API_BASE = "https://bolacristalbackend-1.onrender.com";
 
 export async function getPosts() {
   const res = await fetch(`${API_BASE}/getPosts.php`);
